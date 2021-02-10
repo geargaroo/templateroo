@@ -1,3 +1,10 @@
+<script src = 'https://geargaroo.github.io/templateroo/templateroo.js'></script>
+<script>
+	console.log('testing')
+	a = 5
+</script>
+a=~a
+
 # Welcome to Templateroo!
 
 Templateroo is an open-source **client-side html templating** package, written in pure javascript with no dependencies. The purpose of this package is to improve the html experience to make it quicker and easier to edit webpages or offline html files. The current features are as follows:
